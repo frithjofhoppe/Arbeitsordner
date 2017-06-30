@@ -1,0 +1,103 @@
+Netbook / Chromebook / Notebook / Laptop / Ultrabook
+
+ - Portable/ Laptop / Notebook
+    - Anfangs 1970er Xerox Parc Projekt "Dynabook"
+    - 1981 Osborne 1
+    - 1982 GRiD Compass 1100
+    - 1982 Epson HX-20
+    - 1986 IBM PC Convertible
+    - 1987 Toshiba T1100
+
+ - Netbook
+    - 2000 Psion netBook
+
+ - Chromebook
+    - 2011 spezielle Netbooks von Google mit Cloudanbindung
+    => Thin Client
+
+Organizer / PDA / Tablet / Convertible / 2-in-1
+
+ - 1989 GRiDPad
+ - 1993 Palm Inc. Zoomer
+ - 1993-98 Apple Newton MessagePad 2000
+ - 1996 Nokia 9000 Communicator
+ - 2007 iPhone
+ - 2010 iPad
+ - 2012 MS Surface
+
+Thin Client
+  => Terminal / Mainframe
+  => Client - Server
+  1999 Sun Ray
+  HP/Wyse/DELL/IGEL/Oracle
+
+  Intel Compute Stick
+  Raspberry Pi
+
+Desktop / Tower / Big Tower
+ - 1981 IBM model 5150 => IBM Personal Computer
+ - Intel x86 Architektur
+ - Microsoft DOS
+ - ATX / ITX ...
+
+Workstation
+ - 1980er spezielle Hochleistungsrechner
+   => Apollo, DEC, HP, Sun, SGI, und NeXT
+
+ - i.d.R. Unixoides OS
+ - CPU z.B. MIPS, PA-RISC, PowerPC, SPARC
+
+ - 1988 NeXTCube
+ - 1991 SGI Indigo
+ - 1993 SGI Indy
+
+Midrange
+ - 1960er DEC PDP, IBM System/3 und AS/400
+ - zwischen Mainframe und Microcomputer
+ - Altair 8800, C64, Amiga, Atari, Apple II ...
+
+Mainframe / Grossrechner
+ - BIG IRON
+ - ab 1950er "IBM and the Seven Dwarfs"
+ - IBM, Unisys, HP, Fujitsu, Hitachi, NEC
+ - IBM System/360
+
+ - für Transaktionen => MIPS
+ - lzlabs.com => behauptet:
+      70% aller Transaktionen laufen auf Legacy Mainframes
+
+Supercomputer
+ - Top500.org
+ - für Numbercrunching => FLOPS
+
+
+---------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Werkzeug
+
+ - Schraubendreher PH0-3
+ - Zange
+
+ - Licht
+ - Spiegel
+ - Magnet
+
+ - Kabelbinder
+
+ - ESD Schutz
